@@ -1,9 +1,9 @@
-Some of my home projects:
+Some of my home projects (ones marked with an asterisk are deployed on the free tier on Heroku or Render and take ~30s to spin up):
 
 * <a href="https://github.com/taylorjg/shazizzle">shazizzle</a> - Experiments with Web Audio API with a view to creating a simplified version of Shazam
-([deployed here](https://shazizzle.onrender.com))
+([deployed here](https://shazizzle.onrender.com) *)
 * <a href="https://github.com/taylorjg/sudoku-buster">sudoku-buster</a> - Web app to scan and solve a Sudoku puzzle
-([deployed here](https://sudoku-buster.onrender.com))
+([deployed here](https://sudoku-buster.onrender.com) *)
 * <a href="https://github.com/taylorjg/solid-light-works">solid-light-works</a> - Attempt to render some of Anthony McCall's solid light works using three.js and WebGL
 ([deployed here](https://taylorjg.github.io/solid-light-works))
 * <a href="https://github.com/taylorjg/rubiks-cube">rubiks-cube</a> - A three.js visualisation of solving a Rubik's cube
@@ -11,7 +11,7 @@ Some of my home projects:
 * <a href="https://github.com/taylorjg/sliding-puzzle-react">sliding-puzzle-react</a> - Sliding Puzzle using React and Phaser
 ([deployed here](https://taylorjg.github.io/sliding-puzzle-react))
 * <a href="https://github.com/taylorjg/solitaire-rl-web">solitaire-rl-web</a> - Solve Solitaire using reinforcement learning
-([deployed here](https://solitaire-rl-web.herokuapp.com))
+([deployed here](https://solitaire-rl-web.herokuapp.com) *)
 * Implementations of Donald E. Knuth's Algorithm X using the Dancing Links technique (DLX)
   * <a href="https://github.com/taylorjg/DlxLib">DlxLib</a> - DLX .NET Package
 ([NuGet gallery](http://www.nuget.org/packages/DlxLib))
@@ -33,6 +33,6 @@ Some of my home projects:
 * <a href="https://github.com/taylorjg/dotnet-versioninfo">dotnet-versioninfo</a> - Display version information of .NET Core assemblies
 ([NuGet gallery](https://www.nuget.org/packages/dotnet-versioninfo))
 * <a href="https://github.com/taylorjg/mastermind-svg-vue">mastermind-svg-vue</a> - Mastermind using SVG, Vue.js and a web worker
-([deployed here](https://mastermind-svg-vue.herokuapp.com))
+([deployed here](https://mastermind-svg-vue.herokuapp.com) *)
 * <a href="https://github.com/taylorjg/BasketCase">BasketCase</a> - Simple AngularJS 1.x online store app as a vehicle for experimenting with Elasticsearch
-([deployed here](https://basketcase.onrender.com))
+([deployed here](https://basketcase.onrender.com) *)
