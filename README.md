@@ -5,7 +5,7 @@ Some of my home projects:
 * <a href="https://github.com/taylorjg/sudoku-buster">sudoku-buster</a> - Web app to scan and solve a Sudoku puzzle
 ([deployed here](https://sudoku-buster.onrender.com))
 * <a href="https://github.com/taylorjg/solid-light-works">solid-light-works</a> - Attempt to render some of Anthony McCall's solid light works using three.js and WebGL
-([deployed here](https://github.com/taylorjg/solid-light-works))
+([deployed here](https://taylorjg.github.io/solid-light-works))
 * <a href="https://github.com/taylorjg/rubiks-cube">rubiks-cube</a> - A three.js visualisation of solving a Rubik's cube
 ([deployed here](https://taylorjg.github.io/rubiks-cube))
 * <a href="https://github.com/taylorjg/sliding-puzzle-react">sliding-puzzle-react</a> - Sliding Puzzle using React and Phaser
