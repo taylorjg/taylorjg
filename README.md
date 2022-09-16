@@ -1,4 +1,4 @@
-Some of my home projects (ones marked with an asterisk are deployed on the free tier on Heroku or Render and take ~30s to spin up):
+Some of my home projects (ones marked with an asterisk are deployed on the free tiers of Heroku and Render and take ~30s to spin up):
 
 * <a href="https://github.com/taylorjg/shazizzle">shazizzle</a> - Experiments with Web Audio API with a view to creating a simplified version of Shazam
 ([deployed here](https://shazizzle.onrender.com) *)
@@ -13,7 +13,7 @@ Some of my home projects (ones marked with an asterisk are deployed on the free 
 * <a href="https://github.com/taylorjg/solitaire-rl-web">solitaire-rl-web</a> - Solve Solitaire using reinforcement learning
 ([deployed here](https://solitaire-rl-web.herokuapp.com) *)
 * Implementations of Donald E. Knuth's Algorithm X using the Dancing Links technique (DLX)
-  * <a href="https://github.com/taylorjg/DlxLib">DlxLib</a> - DLX .NET Package
+  * <a href="https://github.com/taylorjg/DlxLib">DlxLib</a> - DlxLib .NET Package
 ([NuGet gallery](http://www.nuget.org/packages/DlxLib))
     * Demo applications:
 [DraughtBoardPuzzle](https://github.com/taylorjg/DraughtBoardPuzzle),
@@ -22,7 +22,7 @@ Some of my home projects (ones marked with an asterisk are deployed on the free 
 [SudokuDlx](https://github.com/taylorjg/SudokuDlx),
 [RippleEffectDlx](https://github.com/taylorjg/RippleEffectDlx),
 [TetrisCubeDlx](https://github.com/taylorjg/TetrisCubeDlx)
-  * <a href="https://github.com/taylorjg/dlxlibjs">dlxlibjs</a> - DLX JavaScript Package
+  * <a href="https://github.com/taylorjg/dlxlibjs">dlxlibjs</a> - dlxlib JavaScript Package
 ([npmjs.com](https://www.npmjs.com/package/dlxlib))
     * Demo applications:
 [pentominoes](https://github.com/taylorjg/pentominoes),
