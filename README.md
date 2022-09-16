@@ -1,4 +1,4 @@
-Some of my home projects (ones marked with an asterisk are deployed on the free tiers of Heroku and Render and take ~30s to spin up):
+Some of my home projects (ones marked with an asterisk are deployed on the free tiers of Heroku/Render and take ~30s to spin up):
 
 * <a href="https://github.com/taylorjg/shazizzle">shazizzle</a> - Experiments with Web Audio API with a view to creating a simplified version of Shazam
 ([deployed here](https://shazizzle.onrender.com) *)
