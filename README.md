@@ -5,4 +5,4 @@
 * Home interests: 3D graphics, Deep Learning, writing code to solve puzzles
 * Currently learning: .NET MAUI
 
-See [here](https://taylorjg.github.io/) for a summary of some of my more significant home projects from over the last decade.
+See [here](https://taylorjg.github.io/) for a summary of some of my bigger home projects from over the last decade.
